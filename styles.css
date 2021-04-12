@@ -6,7 +6,8 @@ body {
 }
 
 .logo-futbol {
-  height: 350px;
+  height: 230px;
+  margin-bottom: 70px;
 }
 
 .tabla {
@@ -29,13 +30,17 @@ body {
   width: 50px;
 }
 
+.contenedor-tabla {
+  margin-bottom: 200px;
+}
+
 .footer {
   background-color: #fa982c;
   padding-top: 15px;
 }
 
 .frase {
-  font-weight: 900;
+  font-weight: 700;
   text-decoration-line: underline;
   text-decoration-color: white;
   text-decoration-thickness: 10px;
